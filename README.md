@@ -1,7 +1,7 @@
 ![Generic badge](https://img.shields.io/badge/Python-3.11.9-blue.svg)\
 \
 \
-<img src=https://github.com/Sungwoo-Chang/scanpy_test/assets/147922780/a5ba3080-1e76-4cc8-bd72-8545806518c5, width="700">
+<img src=https://github.com/Sungwoo-Chang/scanpy_test_2/assets/147922780/74baa9f0-2d81-4b5a-be1f-d8b06b4dd159, width="700">
 # 사용한 데이터셋
 >Ochocka, N. et al. Single-cell RNA sequencing reveals functional heterogeneity of glioma-associated brain macrophages. Nat. Commun. 12, 1–14 (2021). [링크](https://www.nature.com/articles/s41467-021-21407-w)
 
